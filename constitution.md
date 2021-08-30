@@ -1,3 +1,6 @@
+---
+---
+
 Hitchcock Hall Constitution: for an Autonomous House Government
 
 Ratified 11.3.69 Revised 2.7.80, 2.6.90, 4.27.00, xx.xx.10, 2.21.19
@@ -18,37 +21,37 @@ We the people of Hitchcock Hall, for the purpose of implementing a government fo
 
 1. An action of the House shall be passed by a simple majority of those residents present at the meeting (except for actions requiring a 2/3 vote).
 2. The Powers of the House are as follows:
-  1. To elect residents to the House Council
-    1. Each Section and each Section alone elects a member of their Section to be Section Representative.
-    2. The House elects the Officers (listed in Article II Section 1).
+    1. To elect residents to the House Council
+        1. Each Section and each Section alone elects a member of their Section to be Section Representative.
+        2. The House elects the Officers (listed in Article II Section 1).
   <!-- No, 2 isn't missing, it just was misnumbered in the doc I copied this from --> 
-  3. To recall any of the House Council members.
-  4. To adopt and execute any rule or regulation, provided it conforms with the Bill of Rights (Article IV), for the betterment of the House.
-  5. To listen to complaints of violations of the Bill of Rights, to declare a person guilty of such a violation by a 2/3 majority vote of the residents, and to take appropriate action against persons it declares guilty of violating the Bill of Rights.
-  6. To assess, collect, appropriate and expend funds for House activities and for damages done to the property of Hitchcock Hall.
-  7. To override, nullify, or amend any current or past action of the House.
-  8. To amend the House Constitution, in accordance with those procedures detailed in Article 5.
-  9. To grant “associate membership” to non-House members in accordance with Housing policies. This status grants those to whom it is conferred the right to participate in all House activities, except the ability to vote and the ability to hold a House Council position.
+    3. To recall any of the House Council members.
+    4. To adopt and execute any rule or regulation, provided it conforms with the Bill of Rights (Article IV), for the betterment of the House.
+    5. To listen to complaints of violations of the Bill of Rights, to declare a person guilty of such a violation by a 2/3 majority vote of the residents, and to take appropriate action against persons it declares guilty of violating the Bill of Rights.
+    6. To assess, collect, appropriate and expend funds for House activities and for damages done to the property of Hitchcock Hall.
+    7. To override, nullify, or amend any current or past action of the House.
+    8. To amend the House Constitution, in accordance with those procedures detailed in Article 5.
+    9. To grant “associate membership” to non-House members in accordance with Housing policies. This status grants those to whom it is conferred the right to participate in all House activities, except the ability to vote and the ability to hold a House Council position.
 
 ### Section 3. The Two Types of House Meetings
 
 Hitchcock shall have two types of meetings; namely Meetings of Election and General Meetings.
 
 1. Meetings of Election
-  1. The quorum for a Meeting of Election shall be 40 residents.
-  2. Meetings of Election shall be held twice during the academic year, the first to be held during the first week of Fall Quarter and the second to be held no earlier than fourth week and no later than sixth week of Winter Quarter.
-  3. The purpose of a Meeting of Election shall be to elect the officers of the House Council.
-  4. During a meeting of election, the Resident Head(s) of Hitchcock shall also present those members of the Hitchcock House government which are appointed.
-  5. When---and only when---the Presidency of Hitchcock House is vacant, the Resident Head(s) of Hitchcock shall preside over meetings of election. Otherwise, the president shall conduct elections (ie. Resident Head(s) conduct the election of the President during the first Meeting of Election, and the President conducts the election of the remaining positions).
-  6. During a meeting of election, the House may also execute any of the powers and policies associated with a general House meeting at the presiding officer’s discretion.
+    1. The quorum for a Meeting of Election shall be 40 residents.
+    2. Meetings of Election shall be held twice during the academic year, the first to be held during the first week of Fall Quarter and the second to be held no earlier than fourth week and no later than sixth week of Winter Quarter.
+    3. The purpose of a Meeting of Election shall be to elect the officers of the House Council.
+    4. During a meeting of election, the Resident Head(s) of Hitchcock shall also present those members of the Hitchcock House government which are appointed.
+    5. When---and only when---the Presidency of Hitchcock House is vacant, the Resident Head(s) of Hitchcock shall preside over meetings of election. Otherwise, the president shall conduct elections (ie. Resident Head(s) conduct the election of the President during the first Meeting of Election, and the President conducts the election of the remaining positions).
+    6. During a meeting of election, the House may also execute any of the powers and policies associated with a general House meeting at the presiding officer’s discretion.
 <!-- Again, I think this is a typo but it just jumps to 7 -->
 7. General House Meetings
-  1. General House Meetings shall be held weekly during the regular ten weeks of the Fall, Winter, and Spring academic quarters, excluding the weeks of Thanksgiving and Scav.
-  2. Any member of the House Staff and the President has the right to call for additional General House Meetings.
-  3. During a general House Meeting, all residents, staff, and guests of the House have the right to bring any issue or item of interest to the attention of the House in accordance with any rules of order that the House may adopt.
-  4. In a House Meeting, the franchise shall be limited to attending residents. Except as stated elsewhere in this constitution, all attending residents shall be enfranchised.
-    1. Only members of each Section shall elect their Section Representative.
-    2. Items pertaining to a single Section may be adopted either by a two-thirds majority vote of the House as a whole, or by a simple majority of that Section.
+    1. General House Meetings shall be held weekly during the regular ten weeks of the Fall, Winter, and Spring academic quarters, excluding the weeks of Thanksgiving and Scav.
+    2. Any member of the House Staff and the President has the right to call for additional General House Meetings.
+    3. During a general House Meeting, all residents, staff, and guests of the House have the right to bring any issue or item of interest to the attention of the House in accordance with any rules of order that the House may adopt.
+    4. In a House Meeting, the franchise shall be limited to attending residents. Except as stated elsewhere in this constitution, all attending residents shall be enfranchised.
+        1. Only members of each Section shall elect their Section Representative.
+        2. Items pertaining to a single Section may be adopted either by a two-thirds majority vote of the House as a whole, or by a simple majority of that Section.
 
 ## Article II. The Duties of Council Members
 
@@ -137,6 +140,6 @@ Every member of the House is entitled to due process in having their opinions vo
 ## Article V. Amendments
 
 1. This constitution may be amended by an action of the House.
-  1. Said actions must pass with a two-thirds supermajority of those attending House Meeting.
-  2. Said actions must have been presented to the House prior to the start of House Meeting
-  3. The text of said action must be formulated in consultation with the President of Hitchcock and RH(s) of Hitchcock.
+    1. Said actions must pass with a two-thirds supermajority of those attending House Meeting.
+    2. Said actions must have been presented to the House prior to the start of House Meeting
+    3. The text of said action must be formulated in consultation with the President of Hitchcock and RH(s) of Hitchcock.
